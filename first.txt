@@ -1,2 +1,4 @@
 git practice
 learn
+#git add
+#git commit
